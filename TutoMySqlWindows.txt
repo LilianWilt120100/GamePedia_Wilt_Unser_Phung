@@ -1,0 +1,7 @@
+Lancer le fichier sql game_data.sql en lignes de commandes sur windows avec mysql : 
+
+- ouvrir un cmd en administrateur
+- aller dans le repertoir xampp/mysql/bin
+- taper mysql.exe -u root
+- taper use gamepedia
+- taper source "emplacement"
