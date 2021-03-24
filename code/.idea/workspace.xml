@@ -19,18 +19,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b385e15-1e96-447b-afbb-08f2dcf0fe73" name="Default Changelist" comment="" />
+    <list default="true" id="5b385e15-1e96-447b-afbb-08f2dcf0fe73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/62e3b702-b751-4f8c-83cb-859bfdcb4af5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/62e3b702-b751-4f8c-83cb-859bfdcb4af5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Character.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Character.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution />
+    <execution>
+      <executable path="composer" />
+    </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1pbjZQDGb392r73IXdYk8WhTlWC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,15 +48,18 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\BaseDeDonnée\GamePedia_S4-AI2_Wilt_Unser_Phung\tp1\src\models" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\BaseDeDonnée\GamePedia_S4-AI2_Wilt_Unser_Phung\code" />
       <recent name="C:\xampp\htdocs\BaseDeDonnée\GamePedia_S4-AI2_Wilt_Unser_Phung\tp1\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\BaseDeDonnée\GamePedia_S4-AI2_Wilt_Unser_Phung\code\src" />
+      <recent name="C:\xampp\htdocs\BaseDeDonnée\GamePedia_S4-AI2_Wilt_Unser_Phung\code\src\games" />
+      <recent name="C:\xampp\htdocs\BaseDeDonnée\GamePedia_S4-AI2_Wilt_Unser_Phung\tp1\src\models" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -62,6 +72,7 @@
       <updated>1615458738475</updated>
       <workItem from="1615458739523" duration="838000" />
       <workItem from="1615966644558" duration="4823000" />
+      <workItem from="1616610627357" duration="7155000" />
     </task>
     <servers />
   </component>
@@ -81,21 +92,41 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="368" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615980963357">
+    <state x="103" y="0" width="588" height="824" key="#PHP" timestamp="1616619876025">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="368" y="141" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1615980963357" />
+    <state x="103" y="0" width="588" height="824" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1616619876025" />
+    <state x="270" y="39" width="1097" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616611615899">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="39" width="1097" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1616611615899" />
     <state x="457" y="201" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615978921235">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="457" y="201" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1615978921235" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1615976743443">
+    <state x="839" y="362" width="472" height="280" key="ComposerInitDialogKey" timestamp="1616622909267">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615976743443" />
-    <state x="472" y="119" key="NewPhpClassDialog" timestamp="1615976412667">
+    <state x="839" y="362" width="472" height="280" key="ComposerInitDialogKey/0.0.1536.824@0.0.1536.824" timestamp="1616622909267" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1616617845298">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="472" y="119" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1615976412667" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616617845298" />
+    <state width="205" height="539" key="HiddenNamespacesPopup" timestamp="1616611641391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="205" height="539" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1616611641391" />
+    <state x="90" y="142" key="NewPhpClassDialog" timestamp="1616622030025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="90" y="142" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1616622030025" />
+    <state x="220" y="331" key="NewPhpFileDialog" timestamp="1616622036232">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="220" y="331" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1616622036232" />
+    <state x="670" y="288" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1616617771938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="670" y="288" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1536.824@0.0.1536.824" timestamp="1616617771938" />
   </component>
 </project>
